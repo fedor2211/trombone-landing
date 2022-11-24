@@ -1,0 +1,16 @@
+.header-wrapper {
+  border-bottom: solid gray 0.1em;
+  padding: 1em;
+}
+
+.logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo-title {
+  padding-left: 0.3em;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

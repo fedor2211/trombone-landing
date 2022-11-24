@@ -1,0 +1,11 @@
+.demo {
+  display: flex;
+  padding: 1em;
+  justify-content: center;
+  align-items: center;
+}
+
+.demo-video {
+  width: 40em;
+  height: 20em;
+}

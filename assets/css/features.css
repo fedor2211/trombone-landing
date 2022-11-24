@@ -1,0 +1,30 @@
+.features-content {
+  padding: 3em 3em;
+}
+
+.feature {
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
+  align-content: center;
+  padding: 1em 2em;
+}
+
+.feature-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 1.5em;
+}
+
+.feature-icon-img {
+  width: 100%;
+  height: auto;
+  margin: auto auto;
+  padding: auto auto;
+}
+
+.feature-text {
+  width: 90%;
+  height: auto;
+}

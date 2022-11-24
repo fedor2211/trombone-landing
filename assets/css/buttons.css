@@ -1,0 +1,28 @@
+.btn {
+  padding: 0.5em;
+  font-size: 1em;
+  margin: 0.5em;
+  border-radius: 0.2em;
+  border: none; 
+  font-weight: bold;
+}
+
+.btn:hover {
+  cursor: pointer;
+}
+
+.btn-select {
+  background-color: #ffb743;
+}
+
+.btn-select:hover {
+  background-color: #ff7149;
+}
+
+.btn-buy {
+  background-color: #f1c40f;
+}
+
+.btn-buy:hover {
+  background-color: #ff8c00;
+}
