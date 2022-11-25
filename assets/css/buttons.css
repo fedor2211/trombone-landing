@@ -3,8 +3,18 @@
   font-size: 1em;
   margin: 0.5em;
   border-radius: 0.2em;
-  border: none; 
+  border: none;
   font-weight: bold;
+}
+
+.btn-small {
+  font-size: 1em;
+  padding: 0.5em 0.6em;
+}
+
+.btn-big {
+  font-size: 1.5em;
+  padding: 0.5em 0.7em;
 }
 
 .btn:hover {

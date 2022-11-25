@@ -18,13 +18,16 @@
 }
 
 .feature-icon-img {
-  width: 100%;
-  height: auto;
-  margin: auto auto;
-  padding: auto auto;
+  margin: auto;
+  padding: auto;
 }
 
 .feature-text {
-  width: 90%;
   height: auto;
+}
+
+@media (max-width: 640px) {
+  .features-content {
+    padding: 0.5em;
+  }
 }
