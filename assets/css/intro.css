@@ -1,16 +1,6 @@
-.intro-bg {
-  background-image: url("../img/trombone-bg.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  height: 100%;
-  width: 100%;
-}
-
 .intro-bg-fogged {
   background-color: rgba(0, 0, 0, 0.5);
   height: 100%;
-  width: 100%;
 }
 
 .intro-content {
