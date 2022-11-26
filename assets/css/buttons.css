@@ -2,7 +2,7 @@
   padding: 0.5em;
   font-size: 1em;
   margin: 0.5em;
-  border-radius: 0.2em;
+  border-radius: 0.15em;
   border: none;
   font-weight: bold;
 }
@@ -14,7 +14,7 @@
 
 .btn-big {
   font-size: 1.5em;
-  padding: 0.5em 0.7em;
+  padding: 0.4em 0.7em;
 }
 
 .btn:hover {
@@ -23,6 +23,8 @@
 
 .btn-select {
   background-color: #ffb743;
+  text-shadow: 0.05em 0.05em #ddd;
+  box-shadow: 0.07em 0.07em #999;
 }
 
 .btn-select:hover {
@@ -31,6 +33,8 @@
 
 .btn-buy {
   background-color: #f1c40f;
+  box-shadow: 0.08em 0.08em #333;
+  text-shadow: 0.05em 0.05em #ddd;
 }
 
 .btn-buy:hover {

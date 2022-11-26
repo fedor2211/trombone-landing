@@ -8,5 +8,17 @@
   flex-direction: column;
   align-items: center;
   color: #ddd;
-  padding: 10em 10em;
+  padding: 3em;
+}
+
+.intro-title {
+  margin-bottom: 0.2em;
+}
+
+.intro-slogan {
+  margin: 0.2em 0;
+}
+
+.intro-action {
+  margin: 1em 0;
 }
