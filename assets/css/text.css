@@ -5,12 +5,12 @@ body {
 }
 
 .text-large {
-  font-size: 2.4em;
+  font-size: 2.4rem;
   padding: 0.5em 0;
 }
 
 .text-medium {
-  font-size: 1.8em;
+  font-size: 1.8rem;
   padding: 0.3em 0;
 }
 
@@ -33,7 +33,7 @@ body {
 }
 
 .text-lead {
-  font-size: 3.2em;
+  font-size: 3.2rem;
   padding: 0.2em 0;
   font-weight: bold;
   color: white;
@@ -41,8 +41,8 @@ body {
 }
 
 .text-slogan {
-  font-size: 2.0em;
-  padding: 0.1em 0;
+  font-size: 2.0rem;
+  padding: 0.1rem 0;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: #ffb743;
   text-shadow: 2px 2px #333;

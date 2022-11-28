@@ -23,7 +23,6 @@
 
 .feature-icon-img {
   margin: auto;
-  padding: auto;
 }
 
 .feature-text {
@@ -33,5 +32,11 @@
 @media (max-width: 640px) {
   .features-content {
     padding: 0.5em;
+  }
+}
+
+@media (max-width: 400px) {
+  .feature {
+    padding: 0.1em 0.1em;
   }
 }
